@@ -2,6 +2,8 @@
 
 🎓 MCA Postgraduate | 💻 Android & Web Developer | 🚀 Firebase Enthusiast | 🌱 Tech Explorer
 
+![Profile Views](https://komarev.com/ghpvc/?username=vishalkanani&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ### 👨‍💻 About Me
@@ -20,11 +22,18 @@ I believe in building apps that not only work great but also **serve a purpose**
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Java, XML, JavaScript, Python
-- **Mobile**: Android Studio, Firebase (Auth, Firestore, Realtime DB)
-- **Web**: React.js, Tailwind CSS, Bootstrap
-- **Database**: MySQL, Firebase, SQLite
-- **Tools**: Git, Canva, Figma, PowerPoint
+- **Languages**: Java, XML, JavaScript, Python  
+- **Mobile**: Android Studio, Firebase (Auth, Firestore, Realtime DB)  
+- **Web**: React.js, Tailwind CSS, Bootstrap  
+- **Database**: MySQL, Firebase, SQLite  
+- **Tools**: Git, Canva, Figma, PowerPoint  
+
+---
+
+### 📊 GitHub Stats
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kananivishal&show_icons=true&theme=radical&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kananivishal&layout=compact&theme=radical)
 
 ---
 
@@ -37,4 +46,3 @@ I believe in building apps that not only work great but also **serve a purpose**
 ---
 
 > “Code with purpose. Design with empathy. Build what matters.”
-
