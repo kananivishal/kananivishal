@@ -12,7 +12,7 @@ I’ve worked on several meaningful projects like:
 
 - 📒 **NoteMaster** – A real-time collaborative note-taking app with Firebase
 - 🌍 **Population Data Analysis** – Visual data trends on global population growth
-- 💡 **Trash2Points** – A reward-based garbage-spotting app concept
+- 💡 **Trash2Points** – A reward-based garbage-spotting app concept (Coming Soon)
 
 I believe in building apps that not only work great but also **serve a purpose** in real life.
 
