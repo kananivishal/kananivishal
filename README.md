@@ -20,17 +20,17 @@ I believe in building apps that not only work great but also **serve a purpose**
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Java, XML, JavaScript
+- **Languages**: Java, XML, JavaScript, Python
 - **Mobile**: Android Studio, Firebase (Auth, Firestore, Realtime DB)
-- **Web**: React.js, Tailwind CSS, Material Tailwind
-- **Database**: Firebase, SQLite
+- **Web**: React.js, Tailwind CSS, Bootstrap
+- **Database**: MySQL, Firebase, SQLite
 - **Tools**: Git, Canva, Figma, PowerPoint
 
 ---
 
 ### 📫 Let’s Connect!
 
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/kanani-vishal/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kanani-vishal/)
 - 📧 Email: vishalkanani51@email.com
 - 🌐 Portfolio (Coming Soon)
 
