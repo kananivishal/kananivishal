@@ -33,7 +33,7 @@ I’m passionate about using technology to solve real-life problems, and I conti
 
 ### 📊 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkanani&show_icons=true&theme=radical&hide=prs)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kananivishal&show_icons=true&theme=radical&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kananivishal&layout=compact&theme=radical)
 
 ---
