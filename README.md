@@ -8,15 +8,16 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate software developer currently pursuing my **Master of Computer Applications (MCA)**. I specialize in **Android development** using Java and Firebase and love building real-world applications that combine clean UI, collaboration, and practical utility.
+I am currently pursuing my **Master of Computer Applications (MCA)** at Marwadi University, Rajkot. I enjoy building Android and web applications using technologies like **Java**, **Kotlin**, **Firebase**, **MySQL**, and **PHP**.
 
-I’ve worked on several meaningful projects like:
+Through my academic journey, I’ve developed several real-world projects, such as:
 
-- 📒 **NoteMaster** – A real-time collaborative note-taking app with Firebase
-- 🌍 **Population Data Analysis** – Visual data trends on global population growth
-- 💡 **Trash2Points** – A reward-based garbage-spotting app concept (Coming Soon)
+- 📱 **NoteMaster** – A collaborative note-taking app using Firebase and Java
+- 🛒 **The ShoesBox** – An e-commerce Android app built with Kotlin and MySQL (via PHP API)
+- 🖥️ **NotePlus** – A web-based note app with HTML/CSS/JS and PHP backend
 
-I believe in building apps that not only work great but also **serve a purpose** in real life.
+I’m passionate about using technology to solve real-life problems, and I continue to learn and grow as I work on new challenges. My goal is to become a skilled IT professional with strong development and problem-solving abilities.
+
 
 ---
 
@@ -32,8 +33,8 @@ I believe in building apps that not only work great but also **serve a purpose**
 
 ### 📊 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kananivishal&show_icons=true&theme=radical&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kananivishal&layout=compact&theme=radical)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkanani&show_icons=true&theme=radical&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkanani&layout=compact&theme=radical)
 
 ---
 
