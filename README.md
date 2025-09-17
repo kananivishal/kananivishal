@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishal Kanani
 
-🎓 MCA Postgraduate | 💻 Android & Web Developer | 🚀 Firebase Enthusiast | 🌱 Tech Explorer
+🎓 MCA Postgraduate | 💻 Android & Web Developer | 🌱 Tech Explorer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishalkanani&label=Profile%20Views&color=0e75b6&style=flat)
 
